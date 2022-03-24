@@ -17,7 +17,7 @@ const p1 = new Promise((resolve,reject)=>{
   p1.then(console.log).catch(console.log)
 
 
-
+---------------------------------------------------------------------------------
 
 //promise methods 
  const p1=val => new Promise((resolve,reject)=>{
@@ -56,8 +56,6 @@ reject na---> status:Rejected,result:failure
 
 output:31
 
-
- 
 
 
 //call back function---->vachu ivalo line ezhuthurathuku instead(pathila) tha promise use pannuvanga
